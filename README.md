@@ -14,5 +14,4 @@
 5. Points are awarded based on performance.</li>
 
 ## VIDEO
-
-
+https://github.com/subashri-e/NUMBER-GUESSING-GAME/assets/115530600/6c0c2976-89d2-4b28-bdf5-3455ea1e21b3
